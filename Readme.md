@@ -1,4 +1,4 @@
-# Mi nombre es Carlos
+# Carlos Duarte Rodríguez
 
 - 👨‍🎓 Psicólogo, espcializado en RRHH
 - 📲🖥Mucha experiencia de cara al público en el sector tecnológico
