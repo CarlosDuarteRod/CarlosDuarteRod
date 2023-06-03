@@ -1,8 +1,8 @@
 # Mi nombre es Carlos
 
-- Psicólogo, espcializado en RRHH
-- Mucha experiencia de cara al público
-- Actualmente cursando bootcamp de Full Stack
+- 👨‍🎓 Psicólogo, espcializado en RRHH
+- 📲🖥Mucha experiencia de cara al público en el sector tecnológico
+- 👨‍💻 Actualmente cursando bootcamp de Full Stack
 
 
 
