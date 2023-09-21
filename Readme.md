@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Psicólogo, espcializado en RRHH
 - 📲🖥Mucha experiencia de cara al público en el sector tecnológico
-- 👨‍💻 Actualmente cursando bootcamp de Full Stack
+- 👨‍💻 Estudios de Full Stack en 4Geeks Academy España
 
 
 
