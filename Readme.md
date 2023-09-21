@@ -13,7 +13,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" width="40" height="40">
  </div>
+ 
 
 ## Contáctame
 
