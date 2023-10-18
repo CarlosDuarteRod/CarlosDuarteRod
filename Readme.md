@@ -22,7 +22,7 @@
 ## Contáctame
 
 <div>
-  <a href="https://www.linkedin.com/in/carlos-duarte-rodr%C3%ADguez-bb2678174/">
+  <a href="www.linkedin.com/in/carlos-duarte-rodríguez">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
