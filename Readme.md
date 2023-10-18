@@ -1,8 +1,8 @@
 # Carlos Duarte Rodríguez
 
+- 👨‍💻 Full Stack Developer en 4Geeks Academy España
 - 👨‍🎓 Psicólogo, espcializado en RRHH
-- 📲🖥Mucha experiencia de cara al público en el sector tecnológico
-- 👨‍💻 Estudios de Full Stack Developer en 4Geeks Academy España
+- 📲🖥Experiencia de cara al público en el sector tecnológico
 
 
 
